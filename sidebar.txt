@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lrc:home|Door43 (lrc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lrc|d43-lrc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lrc/archive/master.zip|d43-lrc.zip]]
+
+**Recent Changes**
+{{changes>ns = lrc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lrc|Ethnologue data]]
+
